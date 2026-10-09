@@ -1,0 +1,8 @@
+Criterion,Value
+Minimum R² for pH,0.8
+Minimum R² for water temperature,0.8
+Required targets meeting criterion,Both
+Minimum PH-only training percentage,50
+Minimum transfer training percentage,25
+Minimum PH-only training rows,100
+Minimum transfer training rows,50

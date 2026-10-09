@@ -1,0 +1,13 @@
+Parameter,Selected Value
+Transferred Layer,LSTM
+Transferred LSTM Units,16
+Stage 1 Frozen LSTM Layers,1
+Stage 1 Learning Rate,0.005
+Stage 2 Frozen LSTM Layers,0
+Fine-Tuning Learning Rate,0.0005
+Batch Size,8
+Early Stopping Patience,5
+Early Stopping Monitor,val_loss
+Sequence Length,6 hours
+Forecast Horizon,1 hour ahead
+Random Seed,42

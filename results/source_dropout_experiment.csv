@@ -1,0 +1,3 @@
+Experiment,Best Epoch,Epochs Run,Best Validation Loss
+Exp 1 - Early Stopping,38,43,0.008216667920351028
+Exp 2 - Dropout 0.20,55,60,0.006550468038767576

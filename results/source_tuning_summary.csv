@@ -1,0 +1,13 @@
+Parameter,Selected Value
+Sequence Length,6 hours
+Forecast Horizon,1 hour ahead
+LSTM Layers,1
+LSTM Units,16
+Dropout Rate,0.2
+Batch Size,8
+Learning Rate,0.005
+Optimizer,Adam
+Maximum Epochs,100
+Early Stopping Patience,5
+Early Stopping Monitor,val_loss
+Random Seed,42

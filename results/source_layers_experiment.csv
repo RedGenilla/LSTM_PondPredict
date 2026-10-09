@@ -1,0 +1,3 @@
+LSTM Layers,Units per Layer,Best Epoch,Epochs Run,Best Validation Loss
+1,16,74,79,0.00597139447927475
+2,16 + 16,70,75,0.010909542441368103

@@ -1,0 +1,10 @@
+Item,Value
+Total hourly observations,288
+Training observations,201
+Validation observations,43
+Test observations,44
+Training sequences,195
+Validation sequences,37
+Test sequences,38
+Sequence length,6 hours
+Forecast horizon,1 hour ahead

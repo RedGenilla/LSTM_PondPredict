@@ -1,0 +1,5 @@
+Training Percentage,Training Rows,PH-Only pH Acceptable,PH-Only Temp Acceptable,Transfer pH Acceptable,Transfer Temp Acceptable,PH-Only Overall Acceptable,Transfer Overall Acceptable
+25,50,False,True,True,True,False,True
+50,100,True,True,True,True,True,True
+75,150,True,True,False,True,True,False
+100,201,True,True,False,True,True,False
