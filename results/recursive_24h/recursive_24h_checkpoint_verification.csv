@@ -1,0 +1,5 @@
+model,target,test_targets,MAE,expected_final_MAE,matches_final
+Philippine-only,pH,38,0.022773545917711763,0.0227735459,True
+Philippine-only,temperature,38,0.18707527361418078,0.1870752736,True
+Transfer learning,pH,38,0.022977913304379097,0.0229779133,True
+Transfer learning,temperature,38,0.15818147157367923,0.1581814716,True

@@ -1,0 +1,23 @@
+{
+  "experiment": "24-hour recursive reuse of final 1h models (NO training)",
+  "python_environment_backend": "torch",
+  "keras_version": "3.16.0.dev2026092704",
+  "seed_for_inference_reproducibility": 42,
+  "data_rows": 288,
+  "train_rows": 201,
+  "validation_rows": 43,
+  "held_out_test_rows": 44,
+  "test_first_timestamp": "2026-10-02 04:00:00",
+  "test_last_timestamp": "2026-10-03 23:00:00",
+  "sequence_length": 6,
+  "max_horizon": 24,
+  "common_forecast_origins": 15,
+  "number_prediction_rows": 720,
+  "number_metric_rows": 96,
+  "file_sha256": {
+    "data\\PH_data.csv": "86fd9ecbf5c7a13d780cdcec58a5f004558567099c650a4d0b5d515f39592a61",
+    "models\\ph_scaler.pkl": "cdf19d26d7401b38e9f3a9f936bec2eec93c0285a8a5f52676d6a0884452508a",
+    "models\\ph_baseline.keras": "4b7e542cc08e581bb0006d6dec7b5cf8048ff424e246616bc5a73ad15afd2ccc",
+    "models\\transfer_final.keras": "ec46907949968efca2f9aae51875719be2acafce3083c583bbb7190c266e4840"
+  }
+}
