@@ -184,5 +184,3 @@ The one-hour-ahead model remains the primary validated forecasting configuration
 ## Project Scope
 
 This repository documents the machine-learning development, training, evaluation, and recursive forecasting experiments for PondPredict.
-
-The Flutter mobile application and its model-integration procedures are separate components of the overall PondPredict system.
